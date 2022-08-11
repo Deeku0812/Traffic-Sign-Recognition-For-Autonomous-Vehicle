@@ -12,6 +12,7 @@ In this Python project example, we will build a deep neural network model that c
 
 
 ### DataSets
+Link - https://drive.google.com/drive/folders/1VAZrvMSBjnbPNTA2xuz-IY7u08sqpzNP?usp=sharing
 The dataset contains more than 50,000 images of different traffic signs. It is further classified into 43 different classes.
 
 The dataset has a Traffic_sign folder which contains images inside each class and a Test folder which we will use for testing our model.
